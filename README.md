@@ -4,8 +4,9 @@ Global Solution 2º/2026 de Programação Orientada a Objetos (FIAP), tema **Cit
 
 **Recorte:** clima local, com chuva intensa e risco de alagamento em pontos vulneráveis.
 
-**Integrante:** - _Lucas Gabriel Alvarenga e Meireles_,_RM_  _567305_; 
-                - _Leonardo Kenji Kubo Barboza,_ _RM  567518_
+**Integrante:** 
+- _Lucas Gabriel Alvarenga e Meireles_,_RM_  _567305_; 
+- _Leonardo Kenji Kubo Barboza,_ _RM  567518_
 
  O sistema simula as leituras de três sensores instalados num bairro (chuva, nível do rio e umidade do solo), faz previsões para as próximas leituras e emite alertas quando a previsão se aproxima ou passa dos limites definidos para o território.
 
